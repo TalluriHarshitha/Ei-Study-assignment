@@ -20,7 +20,7 @@ The VirtualClassroomApp class serves as the entry point for the terminal-based a
 
 To run the codes:
 Use the following commands:
-add_classroom ClassroomName
+add_classroom ClassroomName                                                                                                                                                                    
 add_student ID ClassroomName
 schedule_assignment ClassroomName “Assignment-Name”
 submit_assignment ID ClassroomName Assignment-Name
